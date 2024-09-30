@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrew Black
+# 👋 Hi, I'm Andrew Black <img src="https://komarev.com/ghpvc/?username=0xandrewblack&style=for-the-badge&color=CA8A04" alt="" align="center" />
 
 I'm a full-stack developer from `🌍 Szeged` with a focus on [`TypeScript`], [`C#`], and [`Go`]. I'm a very fast learner in most programming languages.
 
@@ -44,6 +44,21 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 > I tend to pick up a lot of projects as time passes! :sweat_smile: <br />
 > You can see more by exploring [`my repositories`] :eyes:
 
+## 👀 Statistics
+
+<table>
+  <tr>
+    <td align="center" style="padding=0; width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=0xAndrewBlack&show_icons=true&theme=dark&title_color=EAB308&text_color=9f9f9f&bg_color=131313&icon_color=EAB308&hide_title=true&hide_border=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0; width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAndrewBlack&layout=compact&theme=dark&title_color=EAB308&bg_color=131313&hide_border=true&icon_color=EAB308&hide=visual%20basic" />
+    </td>
+  </tr>
+</table>
+
+> Provided by [`GitHub Readme Stats`]
+
 <!----------------- LINKS --------------->
 [`TypeScript`]:          https://typescriptlang.org
 [`Java`]:                https://adoptopenjdk.net
@@ -65,6 +80,7 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 [Telegram]:              https://t.me/citrombandi
 <!----------------- OTHER --------------->
 [`my repositories`]:     https://github.com/0xandrewblack?tab=repositories
+[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 [`Discord`]:             https://discord.com
 <!----------------- TEAMS --------------->
 [`LAIDBACK DAO`]:        https://github.com/laidbackdao
